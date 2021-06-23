@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "django-clacks"
 version = "0.1.0"
+readme = "README.md"
 description = "The unseen, silent tribute to those we have lost."
 authors = [
   "David Cooke <me@dave.lc>",
@@ -10,6 +11,7 @@ authors = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
+Django = "^3.2.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
