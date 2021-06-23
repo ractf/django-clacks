@@ -3,4 +3,4 @@
 from typing import Iterable
 
 
-DEFAULT_NAMES: Iterable[str] = ("Terry Pratchett")
+DEFAULT_NAMES: Iterable[str] = ("Terry Pratchett",)
