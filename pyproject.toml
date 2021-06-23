@@ -8,6 +8,9 @@ authors = [
   "Jeremiah Boby <mail@jeremiahboby.me>",
   "Ben Griffiths <sendbenspam@yahoo.co.uk>"
 ]
+packages = [
+  { include = "clacks" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
