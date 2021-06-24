@@ -1,5 +1,8 @@
 # Django Clacks
 The unseen, silent tribute to those we have lost.
+
+
+![python-versions](https://img.shields.io/pypi/pyversions/django-clacks) ![version](http://img.shields.io/pypi/v/django-clacks.svg?style=flat-square&maxAge=3600)
 <hr>
 
 `django-clacks` contains boilerplate code for working with the nonstandard HTTP header `X-Clacks-Overhead`.
