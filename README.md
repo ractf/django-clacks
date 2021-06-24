@@ -21,8 +21,7 @@ MIDDLEWARE = [
     # ...
 ]
 ```
-By default, all responses will now have a header `X-Clacks-Overhead`, with the content `GNU Terry Pratchett`.
-
+By default, all responses will now have a header `X-Clacks-Overhead`, with the content `GNU Terry Pratchett`. <br>
 You can modify the names used with the `CLACKS_NAMES` setting. For example, the following setting:
 ```py
 CLACKS_NAMES = [
