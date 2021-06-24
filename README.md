@@ -2,7 +2,7 @@
 The unseen, silent tribute to those we have lost.
 
 
-![python-versions](https://img.shields.io/pypi/pyversions/django-clacks) ![version](http://img.shields.io/pypi/v/django-clacks.svg?maxAge=3600) [![discord](https://img.shields.io/discord/577123238929498122)](https://discord.gg/mErKh58nWU)
+![python-versions](https://img.shields.io/pypi/pyversions/django-clacks) [![version](http://img.shields.io/pypi/v/django-clacks.svg?maxAge=3600)](https://pypi.org/project/django-clacks/) [![discord](https://img.shields.io/discord/577123238929498122)](https://discord.gg/mErKh58nWU)
 <hr>
 
 `django-clacks` contains boilerplate code for working with the nonstandard HTTP header `X-Clacks-Overhead`.
