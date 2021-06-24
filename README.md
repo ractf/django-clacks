@@ -29,4 +29,4 @@ CLACKS_NAMES = [
     "Joe Armstrong",
 ]
 ```
-Will result in a header containing `GNU Terry Pratchett, Joe Armstrong`.
+Will result in an `X-Clacks-Overhead` header containing `GNU Terry Pratchett, Joe Armstrong`.
