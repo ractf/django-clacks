@@ -12,7 +12,7 @@ Django Clacks is on [PyPI](https://pypi.org/project/django-clacks/). Install it 
 Add `clacks.middleware.ClacksMiddleware` to your `MIDDLEWARE` setting:
 ```py
 MIDDLEWARE = [
-    ...,
+    # ...
     "clacks.middleware.ClacksMiddleware",
-    ...,
+    # ...
 ]
