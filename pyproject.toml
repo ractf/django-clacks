@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-clacks"
-version = "0.1.0"
+version = "0.2.0"
 readme = "README.md"
 description = "The unseen, silent tribute to those we have lost."
 authors = [
