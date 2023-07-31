@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-clacks"
-version = "0.3.0"
+version = "0.3.1"
 readme = "README.md"
 description = "The unseen, silent tribute to those we have lost."
 authors = [
@@ -11,6 +11,7 @@ authors = [
 packages = [
   { include = "clacks" }
 ]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
